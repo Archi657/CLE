@@ -1,0 +1,3 @@
+/home/archi/Desktop/Projects/CLE/aws/build/CMakeFiles/aws-c-app.dir
+/home/archi/Desktop/Projects/CLE/aws/build/CMakeFiles/edit_cache.dir
+/home/archi/Desktop/Projects/CLE/aws/build/CMakeFiles/rebuild_cache.dir
