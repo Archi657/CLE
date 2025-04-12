@@ -1,5 +1,0 @@
-#define C     "\u00A9 "
-#define PY    "\U0001F40D "
-#define HIDDEN "\U0001F978 "
-#define AUDIO "\U0001F3B5 "
-#define TEXT "\U0001F4DD "
